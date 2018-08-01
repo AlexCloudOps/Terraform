@@ -1,6 +1,4 @@
-Test On Visual studio code
-
-Test 2 on full visual studio colde 
+Test 3 on full visual studio Code 
 ###############################################################################
 # VARIABLES
 ###############################################################################
